@@ -67,8 +67,4 @@ AI-SaaS is released under the [MIT License](https://opensource.org/licenses/MIT)
 
 ## Acknowledgments
 
-AI-SaaS is built with the support and integration of several open-source projects and technologies. We would like to express our gratitude to the developers and maintainers of Next.js, OpenAI, Replicate, Tailwind CSS, Prisma, and Stripe for their invaluable contributions to the development community.
-
----
-
-Please customize the above template with relevant information about your specific project. Provide more details about the AI services offered, specific API integrations, and any additional features unique to your application. Also, don't forget to add any setup instructions or prerequisites required for running the application.
+AI-SaaS is built with the support and integration of several open-source projects and technologies. I would like to express our gratitude to the developers and maintainers of Next.js, OpenAI, Replicate, Tailwind CSS, Prisma, and Stripe for their invaluable contributions to the development community.

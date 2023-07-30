@@ -11,9 +11,11 @@
   "dependencies": {
     "@clerk/nextjs": "^4.23.0",
     "@hookform/resolvers": "^3.1.1",
+    "@prisma/client": "^5.0.0",
     "@radix-ui/react-avatar": "^1.0.3",
     "@radix-ui/react-dialog": "^1.0.4",
     "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-progress": "^1.0.3",
     "@radix-ui/react-select": "^1.2.2",
     "@radix-ui/react-slot": "^1.0.2",
     "@types/node": "20.4.3",
@@ -23,6 +25,7 @@
     "axios": "^1.4.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "crisp-sdk-web": "^1.0.19",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.12",
     "lucide-react": "^0.263.0",
@@ -32,12 +35,19 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.45.2",
+    "react-hot-toast": "^2.4.1",
     "react-markdown": "^8.0.7",
     "replicate": "^0.12.3",
+    "stripe": "^12.16.0",
     "tailwind-merge": "^1.14.0",
     "tailwindcss": "3.3.3",
     "tailwindcss-animate": "^1.0.6",
     "typescript": "5.1.6",
-    "zod": "^3.21.4"
+    "typewriter-effect": "^2.20.1",
+    "zod": "^3.21.4",
+    "zustand": "^4.3.9"
+  },
+  "devDependencies": {
+    "prisma": "^5.0.0"
   }
 }

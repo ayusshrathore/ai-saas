@@ -86,3 +86,4 @@ AI-SaaS is released under the [MIT License](https://opensource.org/licenses/MIT)
 ## Acknowledgments
 
 AI-SaaS is built with the invaluable support and integration of several open-source projects and technologies. I extend my gratitude to the developers and maintainers of Next.js, OpenAI, Replicate, Tailwind CSS, Prisma, and Stripe for their significant contributions to the development community.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6da7f929-c69e-4c0a-9fd6-596a41129274/deploy-status)](https://app.netlify.com/sites/superlative-malabi-796b55/deploys)
